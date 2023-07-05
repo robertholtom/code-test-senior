@@ -17,12 +17,12 @@ collectiontype
 ` 
 [
     {
-        collectiontype: “home”
-        collectionid:< use any unique key you wish>
+        collectionType: “home”
+        collectionID:< use any unique key you wish>
     },
     {
-        collectiontype: “landing”
-        collectionid:< use any unique key you wish>
+        collectionType: “landing”
+        collectionID:< use any unique key you wish>
     }
     ……….. mock more entries if you wish
 ]
@@ -36,10 +36,10 @@ should have at least 4 dummy articles in the result.
 `
 [
     {
-        Title: “live: Greg Inglis to announce nrl retirement….”
-        Imageurl: <local image url>
-        Intro: “Rabbitohs star Greg……”
-        Published: 2
+        title: “live: Greg Inglis to announce nrl retirement….”
+        imageURL: <local image url>
+        intro: “Rabbitohs star Greg……”
+        published: 2
     },
     ………. mock more entries
 ]
